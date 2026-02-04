@@ -275,5 +275,6 @@
   {"Escola":"INSTITUTO MONITOR - UNIDADE SÃO PAULO","Estado":"SP","CNPJ":"60.943.974/0001-30","Status":"Competência"},
   {"Escola":"LICEU DE ARTES E OFÍCIOS DE SÃO PAULO","Estado":"SP","CNPJ":"60.761.889/0011-23","Status":""},
   {"Escola":"PAULISTA DE AGRIMENSURA ESCOLA","Estado":"SP","CNPJ":"52.699.857/0001-45","Status":""},
-  {"Escola":"MARIANO E MARIANO CURSOS LTDA","Estado":"SP","CNPJ":"33.570.613/0001-13","Status":"Competência"}
+  {"Escola":"MARIANO E MARIANO CURSOS LTDA","Estado":"SP","CNPJ":"33.570.613/0001-13","Status":"Competência"},
+  {"Escola":"UNIVERSIDADE ESTADUAL DE CAMPINAS - UNICAMP (COLÉGIO TÉCNICO DE CAMPINAS - COTUCA)","Estado":"SP","CNPJ":"46.068.425/0001-33","Status":"Competência"}
 ]
