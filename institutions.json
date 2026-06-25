@@ -1,3 +1,1706 @@
 [
-  {"Escola":"OBSELATA","Estado":"AL","CNPJ":"00.000.000/0000-00","Status":""},
+  {
+    "Escola": "A OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "B OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "C OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "D OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "E OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "F OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "G OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "H OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "I OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "J OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "K OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "L OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "M OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "N OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "O OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "P OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "Q OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "R OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "S OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "T OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "U OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "V OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "W OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "X OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "Y OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "Z OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "1 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "2 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "3 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "4 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "5 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "6 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "7 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "8 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "9 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "10 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "11 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "12 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "13 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "14 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "15 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "16 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "17 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "18 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "19 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "20 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "21 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "22 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "23 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "24 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "25 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "26 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "27 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "28 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "29 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "30 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "31 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "32 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "33 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "34 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "35 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "36 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "37 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "38 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "39 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "40 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "41 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "42 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "43 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "44 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "45 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "46 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "47 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "48 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "49 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "50 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "51 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "52 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "53 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "54 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "55 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "56 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "57 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "58 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "59 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "60 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "61 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "62 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "63 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "64 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "65 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "66 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "67 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "68 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "69 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "70 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "71 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "72 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "73 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "74 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "75 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "76 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "77 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "78 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "79 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "80 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "81 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "82 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "83 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "84 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "85 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "86 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "87 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "88 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "89 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "90 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "91 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "92 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "93 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "94 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "95 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "96 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "97 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "98 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "99 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "100 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "101 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "102 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "103 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "104 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "105 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "106 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "107 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "108 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "109 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "110 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "111 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "112 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "113 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "114 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "115 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "116 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "117 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "118 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "119 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "120 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "121 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "122 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "123 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "124 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "125 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "126 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "127 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "128 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "129 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "130 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "131 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "132 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "133 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "134 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "135 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "136 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "137 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "138 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "139 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "140 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "141 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "142 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "143 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "144 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "145 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "146 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "147 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "148 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "149 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "150 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "151 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "152 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "153 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "154 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "155 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "156 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "157 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "158 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "159 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "160 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "161 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "162 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "163 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "164 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "165 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "166 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "167 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "168 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "169 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "170 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "171 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "172 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "173 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "174 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "175 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "176 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "177 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "178 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "179 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "180 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "181 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "182 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "183 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "184 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "185 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "186 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "187 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "188 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "189 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "190 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "191 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "192 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "193 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "194 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "195 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "196 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "197 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "198 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "199 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "200 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "201 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "202 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "203 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "204 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "205 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "206 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "207 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "208 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "209 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "210 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "211 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "212 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "213 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "214 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "215 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "216 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "217 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "218 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "219 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "220 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "221 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "222 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "223 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "224 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "225 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "226 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "227 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "228 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "229 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "230 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "231 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "232 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "233 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "234 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "235 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "236 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "237 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "238 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "239 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "240 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "241 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "242 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "243 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "244 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "245 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "246 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "247 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "248 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "249 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "250 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "251 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "252 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "253 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "254 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "255 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "256 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "257 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  },
+  {
+    "Escola": "258 OBSOLETA",
+    "Estado": "ES",
+    "CNPJ": "12.345.678/1234-45",
+    "Status": "Competência"
+  }
 ]
